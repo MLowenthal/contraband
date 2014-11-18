@@ -1387,6 +1387,9 @@ span.color-red {
   -ms-transition: .25s linear;
   transition: .25s linear;
 }
+.press-adamfrank{
+  background-image: url(img/frank.JPG);
+}
 .in-press a:before {
   content: "\201C";
   margin-left: -16px;
